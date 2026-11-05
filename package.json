@@ -1,0 +1,10 @@
+{
+  "name": "jst-sop-share",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node scripts/start-browser.cjs",
+    "check": "node scripts/check-browser.cjs"
+  },
+  "dependencies": { "playwright": "1.62.1" }
+}
